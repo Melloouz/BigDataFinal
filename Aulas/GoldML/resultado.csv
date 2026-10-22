@@ -1,0 +1,2 @@
+auc,f1,precisao,recall,features
+0.9338,0.1007,0.3684,0.0583,"n_eventos, n_page_view, n_scroll, scroll_maximo, n_video, video_percent_maximo, n_select_item, n_view_item, n_site_search, n_file_download, n_click, duracao_pre_seg, canal, dispositivo"
