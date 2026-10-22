@@ -1,0 +1,8 @@
+plano,canal,ordem,etapa,sessoes,conv_etapa_anterior,conv_topo,taxa_view_item
+(total),(total),1,view_item_list,5258,,1.0,
+(total),(total),2,select_item,1719,0.3269,0.3269,0.573
+(total),(total),3,add_to_cart,1291,0.751,0.2455,
+(total),(total),4,view_cart,1255,0.9721,0.2387,
+(total),(total),5,begin_checkout,912,0.7267,0.1734,
+(total),(total),6,add_payment_info,684,0.75,0.1301,
+(total),(total),7,purchase,573,0.8377,0.109,
